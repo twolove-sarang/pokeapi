@@ -1,1 +1,1 @@
-https://elaborate-caramel-b43720.netlify.app/
+https://pokeapiprojectside.netlify.app/
